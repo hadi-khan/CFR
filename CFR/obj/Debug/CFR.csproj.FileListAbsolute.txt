@@ -1,0 +1,83 @@
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\bin\Debug\CFR.exe.config
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\bin\Debug\CFR.exe
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\bin\Debug\CFR.pdb
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\bin\Debug\MetroFramework.Design.dll
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\bin\Debug\MetroFramework.dll
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\bin\Debug\MetroFramework.Fonts.dll
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\obj\Debug\CFR.Form1.resources
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\obj\Debug\CFR.Properties.Resources.resources
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\obj\Debug\CFR.csproj.GenerateResource.Cache
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\obj\Debug\CFR.exe
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\obj\Debug\CFR.pdb
+c:\users\khanabd\documents\visual studio 2015\Projects\CFR\CFR\obj\Debug\CFR.csprojResolveAssemblyReference.cache
+\\BUKHARI6\SharedFolder\CFR\CFR\bin\Debug\CFR.exe.config
+\\BUKHARI6\SharedFolder\CFR\CFR\obj\Debug\CFR.exe
+\\BUKHARI6\SharedFolder\CFR\CFR\obj\Debug\CFR.pdb
+\\BUKHARI6\SharedFolder\CFR\CFR\bin\Debug\CFR.exe
+\\BUKHARI6\SharedFolder\CFR\CFR\bin\Debug\CFR.pdb
+\\BUKHARI6\SharedFolder\CFR\CFR\bin\Debug\MetroFramework.Design.dll
+\\BUKHARI6\SharedFolder\CFR\CFR\bin\Debug\MetroFramework.dll
+\\BUKHARI6\SharedFolder\CFR\CFR\bin\Debug\MetroFramework.Fonts.dll
+\\BUKHARI6\SharedFolder\CFR\CFR\obj\Debug\CFR.csprojResolveAssemblyReference.cache
+\\BUKHARI6\SharedFolder\CFR\CFR\obj\Debug\CFR.Form1.resources
+\\BUKHARI6\SharedFolder\CFR\CFR\obj\Debug\CFR.Properties.Resources.resources
+\\BUKHARI6\SharedFolder\CFR\CFR\obj\Debug\CFR.SplashScreen.resources
+\\BUKHARI6\SharedFolder\CFR\CFR\obj\Debug\CFR.csproj.GenerateResource.Cache
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\bin\Debug\CFR.exe.config
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\obj\Debug\CFR.exe
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\obj\Debug\CFR.pdb
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\bin\Debug\CFR.exe
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\bin\Debug\CFR.pdb
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\bin\Debug\MetroFramework.Design.dll
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\bin\Debug\MetroFramework.dll
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\obj\Debug\CFR.Form1.resources
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\obj\Debug\CFR.Properties.Resources.resources
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\obj\Debug\CFR.SplashScreen.resources
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\obj\Debug\CFR.csproj.GenerateResource.Cache
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\obj\Debug\CFR.csprojResolveAssemblyReference.cache
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\bin\Debug\WebDriver.dll
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\bin\Debug\WebDriver.xml
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\bin\Debug\HtmlAgilityPack.dll
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\khanabd\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\CFR\CFR\bin\Debug\HtmlAgilityPack.xml
+C:\Users\bukhari\Desktop\CFR\CFR\bin\Debug\CFR.exe.config
+C:\Users\bukhari\Desktop\CFR\CFR\obj\Debug\CFR.exe
+C:\Users\bukhari\Desktop\CFR\CFR\obj\Debug\CFR.pdb
+C:\Users\bukhari\Desktop\CFR\CFR\bin\Debug\CFR.exe
+C:\Users\bukhari\Desktop\CFR\CFR\bin\Debug\CFR.pdb
+C:\Users\bukhari\Desktop\CFR\CFR\bin\Debug\HtmlAgilityPack.dll
+C:\Users\bukhari\Desktop\CFR\CFR\bin\Debug\MetroFramework.Design.dll
+C:\Users\bukhari\Desktop\CFR\CFR\bin\Debug\MetroFramework.dll
+C:\Users\bukhari\Desktop\CFR\CFR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\bukhari\Desktop\CFR\CFR\bin\Debug\WebDriver.dll
+C:\Users\bukhari\Desktop\CFR\CFR\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\bukhari\Desktop\CFR\CFR\bin\Debug\HtmlAgilityPack.xml
+C:\Users\bukhari\Desktop\CFR\CFR\bin\Debug\WebDriver.xml
+C:\Users\bukhari\Desktop\CFR\CFR\obj\Debug\CFR.csprojResolveAssemblyReference.cache
+C:\Users\bukhari\Desktop\CFR\CFR\obj\Debug\CFR.Form1.resources
+C:\Users\bukhari\Desktop\CFR\CFR\obj\Debug\CFR.Properties.Resources.resources
+C:\Users\bukhari\Desktop\CFR\CFR\obj\Debug\CFR.SplashScreen.resources
+C:\Users\bukhari\Desktop\CFR\CFR\obj\Debug\CFR.csproj.GenerateResource.Cache
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\obj\Debug\CFR.csprojResolveAssemblyReference.cache
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\obj\Debug\CFR.Form1.resources
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\obj\Debug\CFR.Properties.Resources.resources
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\obj\Debug\CFR.SplashScreen.resources
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\obj\Debug\CFR.csproj.GenerateResource.Cache
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\CFR.exe.config
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\CFR.exe
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\CFR.pdb
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\HtmlAgilityPack.dll
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\MetroFramework.Design.dll
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\MetroFramework.dll
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\WebDriver.dll
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\HtmlAgilityPack.xml
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\WebDriver.xml
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\obj\Debug\CFR.exe
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\obj\Debug\CFR.pdb
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\ClosedXML.dll
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\ClosedXML.pdb
+C:\Users\bukhari\Desktop\SharedFolder\CFR\CFR\bin\Debug\ClosedXML.xml
